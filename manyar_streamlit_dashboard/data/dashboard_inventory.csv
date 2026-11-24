@@ -1,0 +1,21 @@
+kode_sparepart,nama_sparepart,kategori_sparepart,stok_awal,stok_masuk,stok_keluar,stok_akhir,stok_minimum,kritis
+SP001,Oli Mesin,Pelumas,2484,0,2260,224,149,False
+SP002,Filter Oli,Mesin,2044,95,2006,133,133,True
+SP003,Filter Udara,Mesin,2181,98,1985,294,196,False
+SP004,Kampas Rem Depan,Rem,1487,19,1487,19,224,True
+SP005,Kampas Rem Belakang,Rem,1644,73,1550,167,208,True
+SP006,Busi,Kelistrikan,1410,114,1330,194,261,True
+SP007,Aki,Kelistrikan,1410,91,1228,273,114,False
+SP008,Shockbreaker,Kaki-kaki,1402,17,1158,261,209,False
+SP009,Ball Joint,Kaki-kaki,1120,0,1061,59,157,True
+SP010,Tie Rod,Kaki-kaki,1345,49,1247,147,122,False
+SP011,Freon AC,AC,1818,28,1592,254,198,False
+SP012,Filter AC,AC,1615,30,1484,161,101,False
+SP013,V-Belt,Mesin,1065,50,834,281,100,False
+SP014,Kopling,Transmisi,1528,45,1313,260,147,False
+SP015,Oli Transmisi,Transmisi,1613,95,1317,391,229,False
+SP016,Radiator Coolant,Mesin,1021,54,788,287,188,False
+SP017,Water Pump,Mesin,836,82,612,306,235,False
+SP018,Bearing Roda,Kaki-kaki,1488,44,1199,333,114,False
+SP019,Sekring,Kelistrikan,1368,83,1238,213,271,True
+SP020,Lampu Depan,Kelistrikan,1549,28,1228,349,209,False
